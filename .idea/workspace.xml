@@ -1,0 +1,280 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="BranchesTreeState">
+    <expand>
+      <path>
+        <item name="ROOT" type="e8cecc67:BranchNodeDescriptor" />
+        <item name="LOCAL_ROOT" type="e8cecc67:BranchNodeDescriptor" />
+      </path>
+    </expand>
+    <select />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="59beaf45-1d36-4631-a9ea-6100fc81f9c8" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mscoco_label_map.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/oid_bbox_trainable_label_map.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pascal_label_map.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/pet_label_map.pbtxt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/vehicle1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/vehicle2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/outputs/vehicle3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/protos/string_int_label_map_pb2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/checkpoint" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/frozen_inference_graph.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/model.ckpt.data-00000-of-00001" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/model.ckpt.index" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/model.ckpt.meta" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/pipeline.config" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ssd_mobilenet_v1_coco_2018_01_28/saved_model/saved_model.pb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/traffic_measurement.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/color_histogram_feature_extraction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/color_recognition_api.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/knn_classifier.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/test.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training.data" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black10.png.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/black/black9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/blue/blue9.JPG" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/green/green9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/orange/orange9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red7.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/red/red9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet2.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet4.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/violet/violet9.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white10.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white3.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white5.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white6.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white8.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/white/white9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow10.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow3.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow4.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow5.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow6.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow7.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow8.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/color_recognition_module/training_dataset/yellow/yellow9.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/image_utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/image_utils/crop_image.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/image_utils/image_saver.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/label_map_util.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/speed_and_direction_prediction_module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/speed_and_direction_prediction_module/speed_prediction.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/visualization_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/LICENSE-3RD-PARTY.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/config-3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/config.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/cv2.pyd" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_eye.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_eye_tree_eyeglasses.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_frontalcatface.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_frontalcatface_extended.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt2.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_alt_tree.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_frontalface_default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_fullbody.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_lefteye_2splits.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_license_plate_rus_16stages.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_lowerbody.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_profileface.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_righteye_2splits.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_russian_plate_number.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_smile.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/data/haarcascade_upperbody.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/gapi/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/load_config_py2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/load_config_py3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/mat_wrapper/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/misc/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/misc/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/opencv_videoio_ffmpeg470.dll" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/cv2/version.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/INSTALLER" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/LICENSE-3RD-PARTY.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/LICENSE.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/METADATA" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/RECORD" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/REQUESTED" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/WHEEL" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/venv/Lib/site-packages/opencv_python-4.7.0.72.dist-info/top_level.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/street_vision.iml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/street_vision_final.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/detection_main.py" beforeDir="false" afterPath="$PROJECT_DIR$/detection_main.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/inputs/input_video.mp4" beforeDir="false" afterPath="$PROJECT_DIR$/input_video.mp4" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="2QehZK07dE8El1qPdtawidSgHHg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+  </component>
+  <component name="RunManager">
+    <configuration name="detection_main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="street_vision_final" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/detection_main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.detection_main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="59beaf45-1d36-4631-a9ea-6100fc81f9c8" name="Default Changelist" comment="" />
+      <created>1685720008726</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1685720008726</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="549" y="163" key="FileChooserDialogImpl" timestamp="1685872121499">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="549" y="163" key="FileChooserDialogImpl/0.0.1536.816@0.0.1536.816" timestamp="1685872121499" />
+    <state x="628" y="306" width="280" height="259" key="Github.ShareDialog" timestamp="1685872104906">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="628" y="306" width="280" height="259" key="Github.ShareDialog/0.0.1536.816@0.0.1536.816" timestamp="1685872104906" />
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom" timestamp="1685723373676">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.bottom/0.0.1536.816@0.0.1536.816" timestamp="1685723373676" />
+    <state width="1515" height="208" key="GridCell.Tab.0.center" timestamp="1685723373676">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.center/0.0.1536.816@0.0.1536.816" timestamp="1685723373676" />
+    <state width="1515" height="208" key="GridCell.Tab.0.left" timestamp="1685723373675">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.left/0.0.1536.816@0.0.1536.816" timestamp="1685723373675" />
+    <state width="1515" height="208" key="GridCell.Tab.0.right" timestamp="1685723373676">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state width="1515" height="208" key="GridCell.Tab.0.right/0.0.1536.816@0.0.1536.816" timestamp="1685723373676" />
+    <state x="277" y="53" key="SettingsEditor" timestamp="1685721891049">
+      <screen x="0" y="0" width="1536" height="816" />
+    </state>
+    <state x="277" y="53" key="SettingsEditor/0.0.1536.816@0.0.1536.816" timestamp="1685721891049" />
+  </component>
+</project>
